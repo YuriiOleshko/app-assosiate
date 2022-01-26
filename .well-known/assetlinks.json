@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "com.foresterapp",
+    "package_name": "com.foresterapp",
+    "sha256_cert_fingerprints":
+    ["7E:5E:84:DA:C0:0B:5F:64:50:8A:3C:20:F0:B8:1C:5F:6C:4C:00:8E:71:76:82:A4:B0:BB:66:E7:A8:9B:80:DF"]
+  }
+}]
